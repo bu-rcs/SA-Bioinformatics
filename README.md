@@ -1,6 +1,6 @@
 # SA-Bioinformatics
 
-Student Ambassador: [Michael Silverstein](https://michaelsilverstein.github.io/)
+Student Ambassador: [Amulya Shastry](https://ashastry2.github.io)
 Contact: 
 * Slack Channel: bubioinformatics.slack.com
 * Email: rcs_sa_bioinfo@scc.bu.edu
