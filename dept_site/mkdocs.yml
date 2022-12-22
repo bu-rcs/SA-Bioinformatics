@@ -1,0 +1,19 @@
+site_name: BU Bioinformatics
+
+nav:
+    - Home: index.md
+    
+ 
+    
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - python
+        - r
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
