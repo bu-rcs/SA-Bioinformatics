@@ -2,6 +2,11 @@ site_name: BU Bioinformatics
 
 nav:
     - Home: index.md
+    - SCC: SCC.md
+    - Jupyter: Jupyter.md
+    - Bioinformatics Libraries: Bioinformatics_libs.md
+    - BU Pipelines: BU_pipelines.md
+    - Microbiome: Microbiome.md
     
  
     
